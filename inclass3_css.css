@@ -1,0 +1,73 @@
+/* Name: Keyal Manvar
+   student number: 8980735*/
+.structual{
+    padding: 25px;
+    border: 1px solid #001;
+
+}
+
+header
+{
+    background-color: hsl(120, 50%, 85%);
+}
+
+aside
+{
+    background-color: hsl(240, 50%, 85%);
+    float: left;
+    width: 25%;
+}
+
+main
+{
+    background-color: hsl(0, 50%, 85%);
+    float: left;
+    width: 65%;
+}
+
+footer
+{
+    background-color: hsl(180, 50%, 85%);
+    clear: both;
+    text-align: center;
+}
+
+
+#paragraph1{
+    color: rgb(255, 0, 0);
+}
+#paragraph2{
+    color: rgb(0, 0, 255);
+}
+
+a:hover
+{
+    color: #f00;
+}
+
+footer p
+{
+    font-size: 0.8em;
+}
+
+
+ body
+ {
+    font: 16px/1.5 Arial, sans-serif;
+    background-color: hsla(50, 100%, 50%, .4);
+    height: auto;
+    width: auto;
+
+ }  
+ h2 {
+    color: rgb(15, 230, 44);
+    font-size: 1.5em;
+}
+ul {
+    list-style-type: circle;
+    
+}
+li {
+    line-height:auto;
+    color: rgba(255, 0, 0, 0.6);
+}
